@@ -74,7 +74,6 @@ class DatabaseHelper {
   }
 
   Future<List<ToDo>> getTarefasProucura({String searchTerm = ''}) async {
-    print('entrei aqui');
     DateFormat dateFormat = DateFormat("dd/MM/yyyy");
     final db = await database;
 
@@ -92,11 +91,8 @@ class DatabaseHelper {
       maps = await db.query('tarefas');
     }
 
-    print("Tarefas carregadas do banco: $maps");
-
     // Mapeia os resultados para a lista de ToDo
     return List.generate(maps.length, (i) {
-      print("Criando tarefa: ${maps[i]}");
       return ToDo(
         id: maps[i]['id'].toString(),
         title: maps[i]['titulo'],

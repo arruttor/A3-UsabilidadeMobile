@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_tentativa_1/widgets/date.pick.dart';
 import '../database/db_helper.dart';
 import 'package:intl/intl.dart';
 import 'package:intl/date_symbol_data_local.dart';
+
+import '../widgets/date.pick.dart';
 
 // Tela de edição de tarefas
 class EditTaskScreen extends StatefulWidget {

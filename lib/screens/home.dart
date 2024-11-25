@@ -1,9 +1,9 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:flutter_tentativa_1/screens/Config.dart';
 import '../database/db_helper.dart';
 import '../widgets/todo-item.dart';
+import 'Config.dart';
 import 'Create.dart';
 import 'Edit.dart';
 

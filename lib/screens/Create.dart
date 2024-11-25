@@ -1,9 +1,8 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:flutter_tentativa_1/widgets/date.pick.dart';
-import 'package:flutter_masked_text2/flutter_masked_text2.dart';
 import '../database/db_helper.dart';
+import '../widgets/date.pick.dart';
 
 // Classe de serve de modelo para a tarefa na hora de passar para o banco
 class Task {
