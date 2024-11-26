@@ -6,16 +6,16 @@ Bem-vindo ao nosso projeto! Este aplicativo foi desenvolvido com o objetivo de a
 
 ## **👥 Integrantes do Grupo**  
 
-- [Nome do Integrante 1](https://github.com/integrante1)  
-- [Nome do Integrante 2](https://github.com/integrante2)  
+- [Vinicius MArtins Borges RA: 32328142](https://github.com/integrante1)  
+- [Nome do Integrante ](https://github.com/integrante2)  
 - [Nome do Integrante 3](https://github.com/integrante3)  
 
 ---
 
 ## **📲 Baixe o App**  
 
-Clique no link abaixo para fazer o download do app diretamente na loja ou na plataforma onde ele está hospedado.  
-🔗 [**Baixar o TODO App**](https://seu-link-aqui.com)  
+Clique no link abaixo para fazer o download do app diretamente pelo GitHub.  
+🔗 [**Baixar o TODO App**](https://github.com/arruttor/A3-UsabilidadeMobile/releases/tag/name)  
 
 ---
 
@@ -23,7 +23,7 @@ Clique no link abaixo para fazer o download do app diretamente na loja ou na pla
 
 Assista ao vídeo abaixo para ver o TODO App em ação!  
 
-[![Watch the video](https://img.youtube.com/vi/SEU_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/SEU_VIDEO_ID)  
+[![Watch the video](https://img.youtube.com/vi/JX1RM7xTxD0/maxresdefault.jpg)](https://www.youtube.com/watch?v=JX1RM7xTxD0)  
 *(Clique na imagem acima para assistir ao vídeo no YouTube)*  
 
 ---
