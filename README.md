@@ -6,9 +6,12 @@ Bem-vindo ao nosso projeto! Este aplicativo foi desenvolvido com o objetivo de a
 
 ## **👥 Integrantes do Grupo**  
 
-- [Vinicius MArtins Borges RA: 32328142](https://github.com/integrante1)  
-- [Nome do Integrante ](https://github.com/integrante2)  
-- [Nome do Integrante 3](https://github.com/integrante3)  
+- [Vinicius MArtins Borges RA: 32328142](https://github.com/arruttor)  
+- Vitor Hugo Lima de Almeida RA: 1242021781  
+- Edson Souza Barreto Neto RA: 12724163069
+- Matheus Cordeiro da Silva RA: 324232944
+- Gabriel Parra Boito RA: 824152876
+- Miguel Boscarino Maciel Bechler RA: 12317837    
 
 ---
 
